@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-application-wizard",
+  "version": "1.0.1",
+  "description": "Bootstrap Application Wizard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lishan/bootstrap-application-wizard.git"
+  },
+  "keywords": [
+    "wizard",
+    "bootstrap"
+  ],
+  "author": "lishan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lishan/bootstrap-application-wizard/issues"
+  },
+  "homepage": "https://github.com/lishan/bootstrap-application-wizard#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-uglify": "^2.0.1"
+  }
+}

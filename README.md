@@ -6,6 +6,14 @@ Please fork if you wish to maintain yourself.
 
 ![Screenshot](http://i.imgur.com/e9B2Z.png)
 
+Notification
+---
+
+This is forked all by myself. 
+
+* Support bower install, use `bower install bootstrap-application-wizard-ocsp`
+* Support semver management
+
 General
 -------
 Author

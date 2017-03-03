@@ -1,11 +1,14 @@
 {
   "name": "bootstrap-application-wizard",
   "homepage": "https://github.com/lishan/bootstrap-application-wizard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
-    "Yulishan <yulishan3@gmail.com>"
+    {
+      "name" : "lishan",
+      "homepage" : "https://github.com/lishan/bootstrap-application-wizard"
+    }
   ],
-  "description": "",
+  "description": "Bootstrap application wizard, support step by step workflow",
   "main": "",
   "license": "MIT",
   "ignore": [
