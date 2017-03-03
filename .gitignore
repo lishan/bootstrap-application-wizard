@@ -192,7 +192,6 @@ $RECYCLE.BIN/
 # Packages
 *.egg
 *.egg-info
-dist/
 build/
 eggs/
 parts/
@@ -215,3 +214,4 @@ pip-log.txt
 .mr.developer.cfg
 .idea/
 node_modules/
+bower_components/
