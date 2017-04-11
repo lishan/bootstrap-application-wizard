@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-application-wizard",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bootstrap Application Wizard",
   "main": [
     "dist/bootstrap-wizard.js",
